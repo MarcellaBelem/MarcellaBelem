@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarcellaBelem
-- 👀 I’m interested in Genomic
-- 🌱 I’m currently learning Biology Molecular and Bioinformatics
+- 👋 Hi, I’m @MarcellaBelem.
+- 👀 I’m interested in Genomic, Transcriptomic and regulatory networks.
+- 🌱 I’m currently learning Biology Molecular and Bioinformatics.
 - 💞️ I’m looking to collaborate on genomic projects about native populations and neurological diseases, mainly Alzheimer's disease. 
 - 📫 How to reach me marcella15belem@gmail.com
 - 😄 Pronouns: She/Her
